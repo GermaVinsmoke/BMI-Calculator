@@ -20,6 +20,6 @@ Created with _create-react-app_. See the [full create-react-app guide](https://g
 
 ## Enhancement
 
-1. Removing the dependency of Materialize-CSS module
+1. Removing the dependency of Materialize-CSS module . test
 
 ~~2. Chart going crazy on hovering over the old points~~

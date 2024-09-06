@@ -1,10 +1,16 @@
 body {
-  background-color: #172b4d;
+  background-color: #3600a2;
+}
+
+.header-wrapper {
+  text-align: end;
+  width: 50;
+  height: fit-content;
 }
 
 input {
   background-color: #fff !important;
-  border-radius: 44px !important;
+  border-radius: 42px !important;
   width: 90% !important;
   padding: 0px 15px !important;
 }
@@ -17,7 +23,7 @@ input:focus {
 label {
   display: block;
   color: #fff !important;
-  font-size: 1rem !important;
+  font-size: 2rem !important;
 }
 
 .calculate-btn {
@@ -84,7 +90,7 @@ label {
 }
 
 .delete-btn {
-  background-color: #e74c3c;
+  background-color: black;
   color: white;
   border: none;
   border-radius: 50%;
