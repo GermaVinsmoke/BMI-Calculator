@@ -40,6 +40,7 @@ const App = () => {
 
   const handleUndo = () => {
     setState(getData('lastState'));
+    storeData('lastState', null);
   };
 
   return (
